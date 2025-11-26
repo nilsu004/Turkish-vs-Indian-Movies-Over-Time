@@ -13,17 +13,20 @@ In addition to comparing ratings, the project also studies genre distributions t
 ## Hypotheses
 
 H₁ – Trend in Turkish Movies
-Null hypothesis (H₀): There is no significant change in Turkish movie ratings over time.
-Alternative hypothesis (H₁): Turkish movie ratings show a significant increase over time.
+(H₀): There is no significant change in Turkish movie ratings over time.
+(H₁): Turkish movie ratings show a significant increase over time.
+
 H₂ – Country Comparison
-Null hypothesis (H₀): There is no significant difference between the average IMDb ratings of Turkish and Indian movies.
-Alternative hypothesis (H₁): There is a significant difference between the average IMDb ratings of Turkish and Indian movies.
+(H₀): There is no significant difference between the average IMDb ratings of Turkish and Indian movies.
+(H₁): There is a significant difference between the average IMDb ratings of Turkish and Indian movies.
+
 H₃ – Genre Distribution Difference
-Null hypothesis (H₀): Turkish and Indian movies have similar genre distributions.
-Alternative hypothesis (H₁): Turkish and Indian movies focus on different movie genres.
+(H₀): Turkish and Indian movies have similar genre distributions.
+(H₁): Turkish and Indian movies focus on different movie genres.
+
 H₄ – Genre Change Over Time
-Null hypothesis (H₀): The genre distribution of Turkish movies does not change over time.
-Alternative hypothesis (H₁): The genre distribution of Turkish movies changes over time.
+(H₀): The genre distribution of Turkish movies does not change over time.
+(H₁): The genre distribution of Turkish movies changes over time.
 
 ## Data Collecting
 The datasets were collected from Kaggle. Two separate datasets were used:

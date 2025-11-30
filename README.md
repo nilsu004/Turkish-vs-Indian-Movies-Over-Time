@@ -15,8 +15,7 @@ Null Hypothesis (H0):  There is no significant correlation between economic down
 
 Alternative Hypothesis (H1):  There is a positive correlation between economic downturns and the popularity of escapist media genres. 
 
-
-Selected Countries:
+### Selected Countries:
 1. Turkey : Turkey is selected because it represents a high-inflation economy with strong fluctuations in recent years.
 2. Italy: Italy is specifically selected to represent an economy currently experiencing a disinflationary trend (decreasing inflation) following the post-pandemic peak. Unlike Turkey, Italy’s recent economic data indicates a stabilization period. This inclusion is crucial for testing the reverse hypothesis: Does a decrease in economic pressure correlate with a decline in escapist media consumption and a return to realistic genres?
    
@@ -26,7 +25,7 @@ Temporal Scope: The timeframe spans from 2023 to  2025, segmented into semi-annu
 Media Data: Top-ranked Netflix content (Movies & TV Series) was collected for each interval and categorized by genre to identify 'Escapist' vs. 'Realist' trends.
 (a website called FlixPatrol has the data for the most watched movies and tv series)
 
-Economic Data: Inflation and Unemployment rates were gathered for the corresponding six-month periods for all selected countries.
+Economic Data: Inflation and Unemployment rates were gathered(from the website "Trading Economics") for the corresponding six-month periods for all selected countries.
 
 ## Machine Learning
 
